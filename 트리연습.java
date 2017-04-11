@@ -1,3 +1,8 @@
+/* 입력
+1
+5 4
+1 2 1 3 3 4 3 5
+*/
 import java.util.Scanner;
 import java.io.FileInputStream;
 
